@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909607329277",
+    "project_id": "rhmef2",
+    "storage_bucket": "rhmef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909607329277:android:f85c3f29e463efd98f4d94",
+        "android_client_info": {
+          "package_name": "com.example.youssouf.demo_constract"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909607329277-tmtp098qhqa7qd39349d18cgbpcgvdeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl3bOmFuPY1-4lMOi3oXh_9gCz6HjzeGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909607329277-tmtp098qhqa7qd39349d18cgbpcgvdeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
